@@ -1,0 +1,13 @@
+.nav-wrapper {
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+    font-display: gray;
+}
+
+#navCol {
+    float: left;
+}
+
+#navColRight {
+    float: right;
+}
